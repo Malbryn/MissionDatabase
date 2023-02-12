@@ -1,0 +1,6 @@
+[submodule "mission_database_frontend"]
+	path = mission_database_frontend
+	url = https://github.com/Malbryn/mission_database_frontend.git
+[submodule "mission_database_api"]
+	path = mission_database_api
+	url = https://github.com/Malbryn/mission_database_api.git
